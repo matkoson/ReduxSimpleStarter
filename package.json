@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "redux-simple-starter",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
@@ -28,4 +29,15 @@
     "redux": "4.0.0",
     "youtube-api-search": "0.0.5"
   }
+=======
+  "name": "modernreactredux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+>>>>>>> 8843570805d482195cca3b160ad39aa2990457be
 }
